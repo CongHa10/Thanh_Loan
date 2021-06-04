@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Anh chuẩn bị để về đúng ngày sinh nhật em nhưng mà, dịch lại không về được. Xin lỗi em !',
     messDesc: 'Để qua đợt này rồi mình sẽ đi những nơi mà lúc trước mình đã dự định.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http://fb.com' 
 }
