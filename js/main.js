@@ -23,9 +23,9 @@ function firstQuestion(){
         title: CONFIG.introTitle,
         text: CONFIG.introDesc,
         imageUrl: 'img/tl.jpg',
-        imageWidth: 200,
-        imageHeight: 200,
-        background: '#fff url("img/HL.jpg")',
+        imageWidth: 300,
+        imageHeight: 300,
+        background: '#ff url("img/HL.jpg")',
         imageAlt: 'Custom image',
         confirmButtonText: CONFIG.btnIntro
       }).then(function(){
