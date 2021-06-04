@@ -23,7 +23,7 @@ function firstQuestion(){
         title: CONFIG.introTitle,
         text: CONFIG.introDesc,
         imageUrl: 'img/tl.jpg',
-        imageWidth: 300,
+        imageWidth: 400,
         imageHeight: 300,
         background: '#fff url("img/HL1.jpg")',
         imageAlt: 'Custom image',
@@ -103,7 +103,7 @@ $('#yes').click(function() {
         html: true,
         width: 900,
         padding: '3em',
-        html: "<input type='text' class='form-control' id='txtReason' onmousemove=textGenerate()  placeholder='-.- Em đừng có mà từ chối. Ple 😜 '>",
+        html: "<input type='text' class='form-control' id='txtReason' onmousemove=textGenerate()  placeholder='-.-Em đừng có mà từ chối😜 '>",
         background: '#fff url("img/iput-bg.jpg")',
         backdrop: `
               rgba(0,0,123,0.4)
