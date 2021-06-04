@@ -23,13 +23,13 @@ function firstQuestion(){
         title: CONFIG.introTitle,
         text: CONFIG.introDesc,
         imageUrl: 'img/tl.jpg',
-        imageWidth: 600,
+        imageWidth: 800,
         imageHeight: 300,
         background: '#fff url("img/HL.jpg")',
         imageAlt: 'Custom image',
         confirmButtonText: CONFIG.btnIntro
       }).then(function(){
-        $('.content').show(300);
+        $('.content').show(200);
       })
 }
 
