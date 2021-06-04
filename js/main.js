@@ -103,8 +103,8 @@ $('#yes').click(function() {
         html: true,
         width: 900,
         padding: '3em',
-        html: "<input type='text' class='form-control' id='txtReason' onmousemove=textGenerate()  placeholder='-.- '>",
-        background: '#fff url("img/HL1.jpg")',
+        html: "<input type='text' class='form-control' id='txtReason' onmousemove=textGenerate()  placeholder='-.-Em đừng có mà từ chối. Ple😜 '>",
+        background: '#fff url("img/input-bg.jpg")',
         backdrop: `
               rgba(0,0,123,0.4)
               url("img/giphy2.gif")
@@ -119,7 +119,7 @@ $('#yes').click(function() {
             Swal.fire({
                 width: 900,
                 confirmButtonText: CONFIG.btnAccept,
-                background: '#fff url("img/HL1.jpg")',
+                background: '#fff url("img/input-bg.jpg")',
                 title: CONFIG.mess,
                 text: CONFIG.messDesc,
                 confirmButtonColor: '#83d0c9',
