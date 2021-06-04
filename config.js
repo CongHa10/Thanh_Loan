@@ -6,7 +6,7 @@ const CONFIG = {
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '<3 ( ấn vào đây đê )',
     title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên @@@',
-    desc: 'Anh cũng chẳng biết nữa, nhưng mà lỡ rồi thì phải nói thôi. Em làm người yêu anh nha 0-0  ',
+    desc: 'Anh cũng chẳng biết nữa, nhưng mà lỡ rồi thì phải nói thôi. Anh không biết diễn tả như nào nữa, nhưng mà anh chỉ biết rằng chỉ cần được cạnh em là anh quên hết mọi thứ chỉ còn có mỗi em, anh lỡ thích em mất rồi. Mình có thể tiến xa hơn mối quan hệ bạn bè được không ??? ',
     btnYes: 'Okei "chú" ',
     btnNo: 'Không, Anh trai à :3',
     question:'Trên thế giới hơn 7 tỉ người nhưng mà anh lỡ yêu em mất rồi <3',
