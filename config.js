@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Babe à, Happy birthday ! Chúc em ngày càng xinh đẹp, đáng yêu và mãi là 1 cô công chúa bé nhỏ. Và anh cũng có điều muốn nói ...',
+    introTitle: 'Babe à, Happy birthday ! Chúc em luôn xinh đẹp, đáng yêu và mãi là 1 cô công chúa bé nhỏ. Và anh cũng có điều muốn nói ...',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
